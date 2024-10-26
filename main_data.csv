@@ -1,7 +1,7 @@
 import pandas as pd
 
 main_data = pd.read_csv('path/to/main_data.csv')
-day_data = pd.read_csv('path/to/day.csv')
+pd.read_csv('main_data.csv')
 
 Proyek Analisis Data: [Input Nama Dataset]
 Nama: [Ulfah Humairah]
