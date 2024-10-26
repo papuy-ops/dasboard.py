@@ -1,7 +1,5 @@
 import pandas as pd
-
-main_data = pd.read_csv('path/to/main_data.csv')
-pd.read_csv('main_data.csv')
+main_data = pd.read_csv('/mount/src/main_data.csv')
 
 Proyek Analisis Data: [Input Nama Dataset]
 Nama: [Ulfah Humairah]
